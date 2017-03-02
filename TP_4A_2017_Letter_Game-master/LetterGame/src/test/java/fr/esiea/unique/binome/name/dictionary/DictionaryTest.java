@@ -11,24 +11,21 @@ import static org.junit.Assert.assertTrue;
  */
 public class DictionaryTest 
 {
-    private IDictionary dictionary;
+	 private IDictionary dictionary;
 
-    @Before
-    public void setup() 
-    {
-    	IDictionary dico = dictionary;
-    }
+	    @Before
+	    public void setup() {
+	        //TODO
+	}
+   
+    
 
     @Test
     public void testIsWord() 
     {
-    	Dictionary dictionary = new Dictionary();
-    	dictionary.addWord("papa");
-    	dictionary.addWord("maman");
-    	//assertTrue(dictionary.isWord("maman"));
-        //assertFalse(dictionary.isWord("namam"));
-        //assertFalse(dictionary.isWord("namam"));
-    	//assertTrue("Papa should be in the dictionary");
+    	assertTrue(dictionary.isWord("maman"));
+        assertFalse(dictionary.isWord("mamam"));
+       
     	
     }
     
