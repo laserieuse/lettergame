@@ -17,9 +17,8 @@
 - Game
   - Cette classe permet de lancer le jeu
   
- - Letter
- 
-   - Cette classe permet de piocher une lettre
+- Letter
+  - Cette classe permet de piocher une lettre
   
 
 ## Jouer avec l'ordinateur
