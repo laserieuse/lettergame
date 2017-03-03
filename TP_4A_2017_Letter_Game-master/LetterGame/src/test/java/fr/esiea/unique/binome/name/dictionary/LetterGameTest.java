@@ -178,8 +178,8 @@ public class LetterGameTest {
 
 		@Test
 		public void testMotAvecDeuxMotsIA() {
-			player1.setPlayerWord("aber");
-			player1.setPlayerWord("ration");
+			player1.setPlayerWord("mari");
+			player1.setPlayerWord("age");
 			String mot = "";
 			for (int i = 0; i < player1.getPlayerWord().size(); i++) {
 				for (int j = 0; j < player2.getPlayerWord().size(); j++) {
