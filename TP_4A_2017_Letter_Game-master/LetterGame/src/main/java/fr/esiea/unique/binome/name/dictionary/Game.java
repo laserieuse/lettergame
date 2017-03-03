@@ -7,5 +7,5 @@ public class Game {
 		letterGame.initLetterGame();
 	}
 }
-
+1
 

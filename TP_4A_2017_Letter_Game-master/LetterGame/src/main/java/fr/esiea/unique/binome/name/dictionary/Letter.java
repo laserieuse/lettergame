@@ -3,7 +3,7 @@ package fr.esiea.unique.binome.name.dictionary;
 import java.util.Random;
 
 public class Letter {
-       private String chars = "abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ"; 
+       private String chars = "aaabcdeeeeefghiiijklmnooopqrstuuuvwxyz"; 
       
        public void letter() {
    		letterRandom();
