@@ -4,11 +4,12 @@
 
 - GameLetter :
 
--Cette classe contient les fnctionnalités du jeu: la formation des mots , le tour des joueurs ...
+   - Cette classe contient les fnctionnalités du jeu: la formation des mots , le tour des joueurs ...
 
 - Player :
--Cette classe nous permet de gérer tout ce qui concerne un joueur (IA comprise) comme son pseudo, ses mots réalisés...
-  Letter
+
+   - Cette classe nous permet de gérer tout ce qui concerne un joueur (IA comprise) comme son pseudo, ses mots réalisés...
+     Letter
  
 - Dictionary
   - Cette classe qui permet de chercher un mot de dictionnaire
@@ -22,6 +23,5 @@
 
 ## Jouer avec l'ordinateur
 
--Il est possible de jouer avec l'ordinateur.Il prend le mot le plus long à réaliser pour laisser le moins de chances au joueur.
+-Il est possible de jouer avec l'ordinateur.
 
-s
