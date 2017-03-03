@@ -23,5 +23,5 @@
 
 ## Jouer avec l'ordinateur
 
--Il est possible de jouer avec l'ordinateur.
+-Le joueur a la possiblité de jouer avec un ami comme il peut jouer avec l'ordinateur. Il fera le choix au debut du jeu.
 
